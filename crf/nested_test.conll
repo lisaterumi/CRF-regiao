@@ -269,22 +269,6 @@ sistólica O
 preservada O
 . O
 
-Ecocardiograma Teste
-- O
-ventrículo Anatomia
-esquerdo Anatomia
-com Problema
-hipertrofia Problema
-concentrica Problema
-de Problema
-grau Problema
-discreto Problema
-e O
-função O
-sistólica O
-preservada O
-. O
-
 aumento Problema
 moderado Problema
 de Problema
@@ -292,26 +276,10 @@ de Problema
 esquerdo Problema
 . O
 
-aumento Problema
-moderado Problema
-de Problema
-átrio Anatomia
-esquerdo Anatomia
-. O
-
 calcificação Problema
 mitral Problema
 e Problema
 aórtica Problema
-com Problema
-refluxo Problema
-leve Problema
-. O
-
-calcificação Problema
-mitral Anatomia
-e Problema
-aórtica Anatomia
 com Problema
 refluxo Problema
 leve Problema
@@ -354,12 +322,6 @@ Sem O
 alterações Problema
 nos Problema
 MMII Problema
-. O
-
-Sem O
-alterações Problema
-nos Problema
-MMII Anatomia
 . O
 
 Otimizo O
@@ -436,82 +398,12 @@ pulmonar Problema
 discreta Problema
 . O
 
-# O
-Lucas O
-, O
-78 O
-anos O
-* O
-HAS Problema
-, O
-* O
-Gota Problema
-, O
-* O
-DAC Problema
-- O
-IAM Problema
-+ O
-ATC Tratamento
-em O
-2012 O
-( O
-angina Problema
-instavel Problema
-) O
-- O
-Ecocardiograma Teste
-mar O
-/ O
-14 O
-: O
-FE O
-42 O
-% O
-/ O
-comprometimento Problema
-difuso Problema
-do Problema
-VE Anatomia
-grau Problema
-moderado Problema
-, O
-insuf Problema
-Mi Anatomia
-discreta Problema
-, O
-insuf Problema
-Tri Anatomia
-discreta Problema
-, O
-hipetensao Problema
-pulmonar Anatomia
-discreta Problema
-. O
-
 Paciente O
 refere O
 fraqueza Problema
 intermitente Problema
 em Problema
 MMII Problema
-, O
-associada O
-a O
-tontura Problema
-, O
-turvação Problema
-visual Problema
-e O
-epigastralgia Problema
-. O
-
-Paciente O
-refere O
-fraqueza Problema
-intermitente Problema
-em Problema
-MMII Anatomia
 , O
 associada O
 a O
@@ -532,14 +424,6 @@ dispneia Problema
 . O
 
 Nega O
-dor Problema
-toracica Anatomia
-associada O
-ou O
-dispneia Problema
-. O
-
-Nega O
 DPN Problema
 . O
 
@@ -553,12 +437,6 @@ de Problema
 MMII Problema
 . O
 
-Nega O
-edema Problema
-de Problema
-MMII Anatomia
-. O
-
 Alimenta O
 - O
 se O
@@ -570,13 +448,6 @@ queixas Problema
 urinarias Problema
 e Problema
 gastrointestinais Problema
-. O
-
-Nega O
-queixas Problema
-urinarias Anatomia
-e Problema
-gastrointestinais Anatomia
 . O
 
 Nega O
@@ -752,39 +623,6 @@ IV Problema
 bilateral Problema
 . O
 
-Ao O
-exame Teste
-: O
-PA Teste
-: O
-90 O
-/ O
-60 O
-mmHg O
-/ O
-FC Teste
-55 O
-bpm O
-, O
-BCRNF O
-, O
-SS Problema
-, O
-MV O
-+ O
-bilateralmente O
-, O
-sem O
-RA Problema
-, O
-MMII Anatomia
-edema Problema
-+ Problema
-/ Problema
-IV Problema
-bilateral Problema
-. O
-
 # O
 # O
 Reduzimos O
@@ -869,28 +707,6 @@ após Problema
 início Problema
 do Problema
 tratamento Problema
-. O
-
-Paciente O
-em O
-tratamento Tratamento
-para O
-ICC Problema
-diastólica Problema
-há O
-cerca O
-de O
-5 O
-a O
-com O
-melhora Problema
-importante Problema
-dos Problema
-sintomas Problema
-após Problema
-início Problema
-do Problema
-tratamento Tratamento
 . O
 
 Hoje O
@@ -1076,153 +892,6 @@ laboratoriais Teste
 ECG Teste
 . O
 
-Rsultado O
-de O
-exames Teste
-: O
-1 O
-- O
-Microalbuminúria Teste
-12 O
-/ O
-04 O
-: O
-10 O
-. O
-64 O
-/ O
-G O
-de O
-creatinina Teste
-2 O
-- O
-US Teste
-abdome Anatomia
-total Teste
-: O
-rins Anatomia
-com Problema
-alterações Problema
-tróficas Problema
-3 O
-- O
-ECG Teste
-19 O
-/ O
-03 O
-/ O
-14 O
-: O
-isquemia Problema
-subepicárdica Anatomia
-anterior Anatomia
-, O
-alteração Problema
-de Problema
-repolarização Problema
-ventricular Anatomia
-infero Anatomia
-- Anatomia
-lateral Anatomia
-4 O
-- O
-Laboratoriais Teste
-12 O
-/ O
-04 O
-/ O
-14 O
-: O
-K Teste
-5 O
-. O
-1 O
-, O
-clearence Teste
-creatinina Teste
-57 O
-Ao O
-EF Teste
-: O
-PA Teste
-170x100mmHg O
-( O
-relata O
-PA Teste
-normal O
-quando O
-em O
-ambiente O
-não O
-hospitalar O
-) O
-, O
-FC Teste
-63bpm O
-AR O
-: O
-mv O
-sem O
-RA Problema
-ACV Anatomia
-: O
-rcr O
-em O
-2T O
-sem O
-sopros Problema
-, O
-com O
-hipofonese Problema
-de Problema
-bulhas Problema
-AD O
-: O
-abdome Anatomia
-globos O
-, O
-normotenso O
-, O
-indolor O
-, O
-ausência O
-de O
-massas Problema
-ou O
-visceromegalias Problema
-MMII Anatomia
-sem O
-edema Problema
-HD O
-: O
-- O
-ICC Problema
-diastólica Problema
-classe Problema
-III Problema
-- O
-HAS Problema
-- O
-DMII Problema
-- O
-Dislipidemia Problema
-CD O
-: O
-- O
-mantenho O
-medicação Tratamento
-- O
-retorno O
-em O
-6 O
-m O
-com O
-exames Teste
-laboratoriais Teste
-+ O
-ECG Teste
-. O
-
 ICC Problema
 classe Problema
 III Problema
@@ -1291,14 +960,6 @@ HA O
 dias O
 . O
 
-POS O
-TX Tratamento
-CARDIACO Anatomia
-HA O
-20 O
-dias O
-. O
-
 ULTIMA Teste
 BIOPSIA Teste
 AINDA O
@@ -1350,12 +1011,6 @@ NAS Problema
 PERNAS Problema
 . O
 
-REFERE O
-QUEIMAÇÃO Problema
-NAS Problema
-PERNAS Anatomia
-. O
-
 DEMAIS O
 SP O
 . O
@@ -1395,17 +1050,6 @@ BOA O
 EVOLUÇÃO O
 . O
 
-A O
-# O
-POS O
-TX Tratamento
-CARDIACO Anatomia
-, O
-COM O
-BOA O
-EVOLUÇÃO O
-. O
-
 P O
 # O
 NOVA O
@@ -1419,12 +1063,6 @@ LAB Teste
 PROTESE Tratamento
 VALVAR Tratamento
 MI Tratamento
-2012 O
-. O
-
-PROTESE Tratamento
-VALVAR Tratamento
-MI Anatomia
 2012 O
 . O
 
@@ -1456,11 +1094,6 @@ D O
 SEM O
 QX Problema
 CARDIOLOGICAS Problema
-. O
-
-SEM O
-QX Problema
-CARDIOLOGICAS Anatomia
 . O
 
 27 O
@@ -1508,51 +1141,6 @@ HIPERTENSAO Problema
 PULMONAR Problema
 . O
 
-27 O
-- O
-01 O
-- O
-15 O
-FE O
-50 O
-EP Anatomia
-25 O
-AE Anatomia
-46 O
-VE Anatomia
-REMODELAMENTO Problema
-CONCENTRICO Problema
-AE Anatomia
-E Problema
-AD Anatomia
-AUMENTADOS Problema
-VD O
-NL O
-PROTESE O
-AO O
-NF O
-REFLUXO Problema
-DISCRETO Problema
-= O
-DUPLA Problema
-LESAO Problema
-MI Anatomia
-COM Problema
-ESTENOSE Problema
-E Problema
-INSUF Problema
-MODERADAS Problema
-- O
-INSUF Problema
-TRI Anatomia
-MODERADA Problema
-A Problema
-IMPORTANTE Problema
-= O
-HIPERTENSAO Problema
-PULMONAR Anatomia
-. O
-
 CONTROLE Tratamento
 NO O
 AMB O
@@ -1564,13 +1152,6 @@ ACO Tratamento
 Protese Tratamento
 Metalica Tratamento
 Aortica Tratamento
-em O
-2004 O
-. O
-
-Protese Tratamento
-Metalica Tratamento
-Aortica Anatomia
 em O
 2004 O
 . O
@@ -1643,26 +1224,6 @@ que O
 melhoram Problema
 com Problema
 paracetamol Problema
-. Problema
-
-Dispnia Problema
-esporadica Problema
-, O
-edema Problema
-mmii Anatomia
-eventual Problema
-, O
-sem O
-palpitação Problema
-, O
-dor Problema
-toracica Anatomia
-quando Problema
-epigastralgia Problema
-que O
-melhoram Problema
-com Problema
-paracetamol Tratamento
 . Problema
 
 Lab Teste
@@ -1781,17 +1342,6 @@ relfuxo Problema
 discreto Problema
 . O
 
-VAo Anatomia
-protese Problema
-metalica Problema
-com Problema
-espessamento Problema
-, O
-e O
-relfuxo Problema
-discreto Problema
-. O
-
 Grad O
 medio O
 de O
@@ -1823,16 +1373,7 @@ refluxo Problema
 minimo Problema
 . O
 
-VP Anatomia
-refluxo Problema
-minimo Problema
-. O
-
 VE Problema
-hipertrofiado Problema
-. O
-
-VE Anatomia
 hipertrofiado Problema
 . O
 
@@ -1890,27 +1431,6 @@ Mi Problema
 + Problema
 . O
 
-RCR O
-, O
-2T O
-, O
-BNF O
-ss Problema
-+ Problema
-+ Problema
-/ Problema
-6 Problema
-+ Problema
-FAo Anatomia
-e O
-Mi Anatomia
-( Problema
-+ Problema
-/ Problema
-6 Problema
-+ Problema
-. O
-
 BEG O
 , O
 eupneica O
@@ -1922,19 +1442,6 @@ orientada O
 Sem O
 edema Problema
 mmii Problema
-. O
-
-BEG O
-, O
-eupneica O
-, O
-acianotica O
-, O
-orientada O
-, O
-Sem O
-edema Problema
-mmii Anatomia
 . O
 
 HD O
@@ -2085,19 +1592,6 @@ ANOS O
 . O
 
 # O
-CX Tratamento
-DE Tratamento
-APENDICITE Tratamento
-E Tratamento
-HERNIAS Tratamento
-PARAMEDIANAS Anatomia
-HÁ O
-> O
-20 O
-ANOS O
-. O
-
-# O
 EM O
 USO O
 DE O
@@ -2204,12 +1698,6 @@ TURGÊNCIA Problema
 JUGULAR Problema
 . O
 
-AUSENCIA O
-DE O
-TURGÊNCIA Problema
-JUGULAR Anatomia
-. O
-
 ICTUS Problema
 PALPÁVEL Problema
 EM Problema
@@ -2218,17 +1706,6 @@ EIC Problema
 EM Problema
 LINHA Problema
 HEMIAXILAR Problema
-E Problema
-. O
-
-ICTUS Anatomia
-PALPÁVEL Problema
-EM Problema
-7º Anatomia
-EIC Anatomia
-EM Anatomia
-LINHA Anatomia
-HEMIAXILAR Anatomia
 E Problema
 . O
 
@@ -2251,12 +1728,6 @@ SEM O
 EDEMA Problema
 EM Problema
 MMII Problema
-. O
-
-SEM O
-EDEMA Problema
-EM Problema
-MMII Anatomia
 . O
 
 PULSOS O
@@ -2423,18 +1894,6 @@ EM O
 2010 O
 . O
 
-ABLAÇÃO Tratamento
-DE Tratamento
-TAQUICARDIA Tratamento
-ATRIAL Anatomia
-2009 O
-E O
-A O
-SEGUNDA O
-EM O
-2010 O
-. O
-
 HAS Problema
 , O
 NEGA O
@@ -2498,27 +1957,6 @@ SUSTENTADOS Problema
 DE Problema
 TAQUICARDIA Problema
 ATRIAL Problema
-SEM O
-PRESENCA O
-DE O
-SINTOMAS Problema
-. O
-
-HOLTER Teste
-COM O
-PRESENCA O
-DE O
-EV Problema
-E Problema
-ESV Problema
-RARAS Problema
-COM Problema
-EPISODIOS Problema
-NAO Problema
-SUSTENTADOS Problema
-DE Problema
-TAQUICARDIA Problema
-ATRIAL Anatomia
 SEM O
 PRESENCA O
 DE O
@@ -2685,24 +2123,6 @@ atrial Problema
 ; O
 . O
 
-HMA O
-: O
-fez O
-02 Tratamento
-ablações Tratamento
-( O
-2009 O
-e O
-2010 O
-) O
-POR O
-PALPITAÇÕES Problema
-com O
-taquicardia Problema
-atrial Anatomia
-; O
-. O
-
 Atualmente O
 sente O
 palpitações Problema
@@ -2719,24 +2139,6 @@ melhora Problema
 com Problema
 analgésico Problema
 comum Problema
-. O
-
-Atualmente O
-sente O
-palpitações Problema
-quando Problema
-faz Problema
-grandes Problema
-esforços Problema
-; O
-dor Problema
-de Problema
-cabeça Anatomia
-que O
-melhora Problema
-com Problema
-analgésico Tratamento
-comum Tratamento
 . O
 
 Relata O
@@ -2759,11 +2161,6 @@ FC Teste
 Edema Problema
 discreto Problema
 mmi Problema
-. O
-
-Edema Problema
-discreto Problema
-mmi Anatomia
 . O
 
 Ausculta O
@@ -2890,21 +2287,6 @@ EM O
 QUEIMAÇÃO O
 . O
 
-DOR Problema
-REGIAO Anatomia
-ESTERNAL Anatomia
-, O
-EM O
-FO O
-, O
-LOCAL O
-FIOS O
-AÇO O
-, O
-EM O
-QUEIMAÇÃO O
-. O
-
 - O
 Labs O
 : O
@@ -2988,33 +2370,7 @@ aórtica Tratamento
 normofuncionante O
 . O
 
-Ecocardiograma Teste
-- O
-26 O
-/ O
-06 O
-/ O
-2013 O
-: O
-Homoenxerto Tratamento
-em Tratamento
-posição Tratamento
-aórtica Anatomia
-normofuncionante O
-. O
-
 VE Problema
-hipertrofiado Problema
-com O
-dimensões O
-normais O
-e O
-fumção O
-sistólica O
-preservada O
-. O
-
-VE Anatomia
 hipertrofiado Problema
 com O
 dimensões O
@@ -3031,15 +2387,6 @@ relaxamento Problema
 do Problema
 VE Problema
 AE Problema
-dilatado Problema
-. O
-
-ALteração Problema
-do Problema
-relaxamento Problema
-do Problema
-VE Anatomia
-AE Anatomia
 dilatado Problema
 . O
 
@@ -3120,13 +2467,6 @@ CP O
 sem O
 estase Problema
 jugular Problema
-. O
-
-CP O
-: O
-sem O
-estase Problema
-jugular Anatomia
 . O
 
 AC O
@@ -3282,12 +2622,6 @@ Enalapril Tratamento
 Sem O
 queixas Problema
 cardiovasculares Problema
-. O
-
-# O
-Sem O
-queixas Problema
-cardiovasculares Anatomia
 . O
 
 Ecocardio Teste
@@ -3462,22 +2796,8 @@ PSAP O
 ) O
 . O
 
-INSUF Problema
-TRICU Anatomia
-DISCRETA Problema
-( O
-PSAP O
-39 O
-) O
-. O
-
 REFLUXO Problema
 MITRAL Problema
-DISCRETO Problema
-. O
-
-REFLUXO Problema
-MITRAL Anatomia
 DISCRETO Problema
 . O
 
@@ -3500,24 +2820,9 @@ sincope Problema
 . O
 
 Nega O
-dispneia Problema
-, O
-dor Problema
-toracica Anatomia
-, O
-sincope Problema
-. O
-
-Nega O
 edema Problema
 de Problema
 MMII Problema
-. O
-
-Nega O
-edema Problema
-de Problema
-MMII Anatomia
 . O
 
 Refere O
@@ -3598,49 +2903,11 @@ o Problema
 precórdio Problema
 . O
 
-RCR O
-, O
-2T O
-, O
-taquicardico Problema
-, O
-ss Problema
-+ Problema
-+ Problema
-/ Problema
-6 Problema
-+ Problema
-, Problema
-crsec Problema
-/ Problema
-decres Problema
-, Problema
-FAO Anatomia
-, Problema
-irradiação Problema
-para Problema
-todo Problema
-o Problema
-precórdio Anatomia
-. O
-
 A O
 # O
 DUPLA Problema
 LESAO Problema
 AO Problema
-ESTENOSE Problema
-MOD Problema
-+ Problema
-INSUF Problema
-DISCRETA Problema
-. O
-
-A O
-# O
-DUPLA Problema
-LESAO Problema
-AO Anatomia
 ESTENOSE Problema
 MOD Problema
 + Problema
@@ -3702,17 +2969,6 @@ CARDIACO Anatomia
 - O
 INDICE Teste
 CARDIACO Teste
-. O
-
-* O
-* O
-PROTOCOLO O
-DE O
-TX O
-CARDIACO Anatomia
-- O
-INDICE Teste
-CARDIACO Anatomia
 . O
 
 * O
@@ -3832,11 +3088,6 @@ TURGÊNCIA Problema
 JUGULAR Problema
 . O
 
-SEM O
-TURGÊNCIA Problema
-JUGULAR Anatomia
-. O
-
 CPP Anatomia
 - O
 MV O
@@ -3886,26 +3137,6 @@ PO O
 DE O
 TX Tratamento
 CARDÍACO Tratamento
-( O
-23 O
-/ O
-10 O
-/ O
-15 O
-) O
-- O
-( O
-IC Problema
-DILATADA Problema
-IDIOPÁTICA Problema
-) O
-. O
-
-# O
-PO O
-DE O
-TX Tratamento
-CARDÍACO Anatomia
 ( O
 23 O
 / O
@@ -3988,28 +3219,6 @@ CAROTÍDEA Problema
 . O
 
 # O
-DOPPLER Teste
-CAROTIDAS Anatomia
-+ Teste
-VERTEBRAIS Anatomia
-: O
-CERVICAL Anatomia
-D Anatomia
-: O
-CAROTIDA Anatomia
-: O
-ESTENOSE Problema
-20 Problema
-- Problema
-30 Problema
-% Problema
-NA Problema
-BIFURCAÇÃO Anatomia
-CAROTÍDEA Anatomia
-; O
-. O
-
-# O
 CATE Teste
 16 O
 / O
@@ -4079,26 +3288,6 @@ MODERADA Problema
 / O
 I Problema
 AO Problema
-LEVE Problema
-/ O
-IMI Problema
-LEVE Problema
-AMODERADA Problema
-/ O
-PSAP O
-39 O
-MMHG O
-. O
-
-VE Anatomia
-DILATADO Problema
-COM Problema
-HIPOCONTRATIBILIDADE Problema
-DIFUSA Problema
-MODERADA Problema
-/ O
-I Problema
-AO Anatomia
 LEVE Problema
 / O
 IMI Problema
@@ -4228,21 +3417,6 @@ CARDIACO Tratamento
 ) O
 . O
 
-A O
-# O
-PO O
-DE O
-TX Tratamento
-CARDIACO Anatomia
-( O
-23 O
-/ O
-10 O
-/ O
-15 O
-) O
-. O
-
 P O
 # O
 MANTIDO O
@@ -4255,17 +3429,6 @@ DIAS O
 POS O
 TX Tratamento
 CARDIACO Tratamento
-HA O
-3 O
-ANOS O
-e O
-7 O
-MESES O
-. O
-
-POS O
-TX Tratamento
-CARDIACO Anatomia
 HA O
 3 O
 ANOS O
@@ -4364,17 +3527,6 @@ BOA Teste
 EVOLUÇÃO Teste
 . O
 
-A O
-# O
-POS O
-TX Tratamento
-CARDIACO Anatomia
-, O
-COM O
-BOA Teste
-EVOLUÇÃO Teste
-. O
-
 AGUARDA O
 LAUDO O
 DA O
@@ -4465,50 +3617,13 @@ ANTERO Problema
 SEPTAL Problema
 . O
 
-ECOCARDIO Teste
-25 O
-/ O
-11 O
-/ O
-13 O
-- O
-VE Anatomia
-HIPERTROFIADO Problema
-COM Problema
-DIMENSÃO Problema
-INTERNA Problema
-AUMENTADA Problema
-E O
-FUNÇÃO Problema
-GLOBAL Problema
-MODERADAMENTE Problema
-DIMINUIDA Problema
-POR O
-ACINESIA Problema
-MEDIO Anatomia
-APICAL Anatomia
-PAREDE Anatomia
-ANTERO Anatomia
-SEPTAL Anatomia
-. O
-
 AUMENTO Problema
 DE Problema
 AE Problema
 . O
 
-AUMENTO Problema
-DE Problema
-AE Anatomia
-. O
-
 REFLUXO Problema
 MITRAL Problema
-DISCRETO Problema
-. O
-
-REFLUXO Problema
-MITRAL Anatomia
 DISCRETO Problema
 . O
 
@@ -4518,19 +3633,8 @@ RAIZ Problema
 AÓRTICA Problema
 . O
 
-ECTASIA Problema
-DA Problema
-RAIZ Anatomia
-AÓRTICA Anatomia
-. O
-
 REFLUXO Problema
 AÓRTICO Problema
-DISCRETO Problema
-. O
-
-REFLUXO Problema
-AÓRTICO Anatomia
 DISCRETO Problema
 . O
 
@@ -4563,29 +3667,6 @@ VASOS Problema
 FEMORAIS Problema
 . O
 
-01 O
-/ O
-03 O
-/ O
-11 O
-: O
-ECODOPPLER Teste
-ARTERIAR Teste
-MMII Anatomia
-ESQ Anatomia
-: O
-ESTENOSE Problema
-APROX Problema
-DE Problema
-75 Problema
-% Problema
-DA Problema
-BIFURCAÇÃO Anatomia
-DOS Anatomia
-VASOS Anatomia
-FEMORAIS Anatomia
-. O
-
 LESOES Problema
 SUBSEGMENTARES Problema
 DAS Problema
@@ -4597,31 +3678,12 @@ E Problema
 FIBULAR Problema
 . O
 
-LESOES Problema
-SUBSEGMENTARES Problema
-DAS Problema
-ART Anatomia
-, Anatomia
-TIBIAL Anatomia
-ANTERIOR Anatomia
-E Anatomia
-FIBULAR Anatomia
-. O
-
 OCLUSÃO Problema
 DA Problema
 ARTERIA Problema
 POPLITEA Problema
 MEDIO Problema
 DISTAL Problema
-. O
-
-OCLUSÃO Problema
-DA Problema
-ARTERIA Anatomia
-POPLITEA Anatomia
-MEDIO Anatomia
-DISTAL Anatomia
 . O
 
 ESTENOSE Problema
@@ -4632,16 +3694,6 @@ DA Problema
 ARTERIA Problema
 TIBIAL Problema
 POSTERIOR Problema
-. O
-
-ESTENOSE Problema
-> O
-A O
-OCLUSAO Problema
-DA Problema
-ARTERIA Anatomia
-TIBIAL Anatomia
-POSTERIOR Anatomia
 . O
 
 quadro O
@@ -4959,19 +4011,6 @@ na Problema
 panturrilha Problema
 . O
 
-Paciente O
-relata O
-parestesias Problema
-em Problema
-pé Anatomia
-direito Anatomia
-, O
-dores Problema
-musculares Problema
-na Problema
-panturrilha Anatomia
-. O
-
 Comorbidades Problema
 : O
 HAS Problema
@@ -5049,33 +4088,6 @@ solicito O
 exames Teste
 de Teste
 sangue Teste
-( O
-CT Teste
-, O
-LDL Teste
-, O
-HDL Teste
-, O
-TG Teste
-) O
-; O
-mantenho O
-as O
-demais Tratamento
-medicações Tratamento
-. O
-
-Conduta O
-: O
-troco O
-sinvastatina Tratamento
-por O
-atorvastatina Tratamento
-e O
-solicito O
-exames Teste
-de Teste
-sangue Anatomia
 ( O
 CT Teste
 , O
@@ -5222,25 +4234,6 @@ DIA O
 REFERE O
 DOR Problema
 PRECORDIAL Problema
-LEVE Problema
-A Problema
-MODERADA Problema
-DO Problema
-TIPO Problema
-QUEIMAÇÃO Problema
-, O
-SEM Problema
-IRRADIAÇÃO Problema
-, O
-SEM O
-PIORA O
-AOS O
-ESFORÇOS O
-. O
-
-REFERE O
-DOR Problema
-PRECORDIAL Anatomia
 LEVE Problema
 A Problema
 MODERADA Problema
@@ -5432,22 +4425,6 @@ ISQUEMIA Problema
 MIOCÁRDICA Problema
 . O
 
-STRESS Teste
-FARMACOLOGICO Teste
-COM Teste
-DIPIRIDAMOL Teste
-: O
-ECOCARDIOGRAMA Teste
-DE Teste
-STRESS Teste
-FARMACOLOGICO Teste
-SEM O
-EVIDENCIA O
-DE O
-ISQUEMIA Problema
-MIOCÁRDICA Anatomia
-. O
-
 CONDUTA O
 : O
 AUMENTO O
@@ -5532,12 +4509,6 @@ MÃOS Problema
 . O
 
 # O
-OSTEOARTRITE Problema
-DE Problema
-MÃOS Anatomia
-. O
-
-# O
 CAT Teste
 EM O
 JUNHO O
@@ -5582,32 +4553,6 @@ SEGMENTO Problema
 ANTERO Problema
 - Problema
 SEPTAL Problema
-. O
-
-# O
-CINTILOGRAFIA Teste
-MIOCÁRDICA Anatomia
-COM Teste
-DIPIRIDAMOL Teste
-EM O
-2011 O
-: O
-HIPOCAPTAÇÃO Problema
-APICAL Anatomia
-, Anatomia
-DO Anatomia
-SEGMENTO Anatomia
-ANTERIOR Anatomia
-( Anatomia
-TRANSITÓRIO Anatomia
-) Anatomia
-E Anatomia
-BASAL Anatomia
-DO Anatomia
-SEGMENTO Anatomia
-ANTERO Anatomia
-- Anatomia
-SEPTAL Anatomia
 . O
 
 # O
@@ -5716,37 +4661,6 @@ AO O
 MÊS O
 . O
 
-S O
-# O
-REFERE O
-DOR Problema
-TORÁCICA Anatomia
-PRECORDIAL Anatomia
-TIPO Problema
-QUEIMAÇÃO Problema
-, O
-COM O
-MELHORA O
-AO O
-USO O
-DE O
-NITRATO O
-, O
-SEM O
-IRRADIAÇÃO Problema
-, O
-SEM O
-RELAÇÃO O
-COM O
-O O
-ESFORÇO O
-, O
-2 O
-EPISÓDIOS O
-AO O
-MÊS O
-. O
-
 NEGA O
 DISPNÉIA Problema
 , O
@@ -5759,12 +4673,6 @@ NEGA O
 EDEMA Problema
 DE Problema
 MMII Problema
-. O
-
-NEGA O
-EDEMA Problema
-DE Problema
-MMII Anatomia
 . O
 
 CONTA O
@@ -5872,15 +4780,6 @@ CINTILOGRAFIA Teste
 DE Teste
 PERFUSÃO Teste
 MIOCÁRDICA Teste
-. O
-
-- O
-SOLICITO O
-NOVA O
-CINTILOGRAFIA Teste
-DE Teste
-PERFUSÃO Teste
-MIOCÁRDICA Anatomia
 . O
 
 - O
@@ -5997,12 +4896,6 @@ EM O
 
 VALVOPLASTIA Tratamento
 AÓRTICA Tratamento
-EM O
-2008 O
-. O
-
-VALVOPLASTIA Tratamento
-AÓRTICA Anatomia
 EM O
 2008 O
 . O
@@ -6171,16 +5064,6 @@ FOCO Problema
 AÓRTICO Problema
 . O
 
-BCRNF O
-- O
-HIPOFONESE Problema
-DE Problema
-BULHAS Problema
-EM Problema
-FOCO Anatomia
-AÓRTICO Anatomia
-. O
-
 MV O
 + O
 SIM O
@@ -6209,23 +5092,7 @@ UMBILICAL Problema
 REDUTÍVEL Problema
 . O
 
-HERNIA Problema
-UMBILICAL Anatomia
-REDUTÍVEL Problema
-. O
-
 MMII Problema
-EDEMA Problema
-+ Problema
-/ Problema
-4 Problema
-+ Problema
-, O
-PANTURRILHAS Anatomia
-LIVRES O
-. O
-
-MMII Anatomia
 EDEMA Problema
 + Problema
 / Problema
@@ -6256,28 +5123,6 @@ HORÁRIO O
 , O
 EXTRASSÍSTOLES Problema
 VENTRICULARES Problema
-. O
-
-# O
-ECG Teste
-19 O
-/ O
-08 O
-: O
-FLUTTER Problema
-ATRIAL Anatomia
-PROVAVELMENTE O
-ANTI O
-- O
-HORÁRIO O
-2 O
-/ O
-3 O
-: O
-1 O
-, O
-EXTRASSÍSTOLES Problema
-VENTRICULARES Anatomia
 . O
 
 # O
@@ -6548,46 +5393,6 @@ TSH Teste
 ) O
 . O
 
-# O
-Internamento O
-em O
-jan O
-/ O
-15 O
-por O
-taquicardia Problema
-atrial Anatomia
-com Problema
-aberrância Problema
-- O
-- O
-DESCARTADO O
-ISQUEMIA Problema
-MIOCÁRDICA Anatomia
-COMO O
-CAUSA O
-, O
-PROVÁVEL O
-FATOR O
-DESCOMPENSADOR O
-SERIA O
-O O
-HIPERTIREOIDISMO Problema
-QUE O
-AINDA O
-APRESENTA O
-- O
-SE O
-DESCOMPENSADO O
-( O
-TSH Teste
-< O
-0 O
-, O
-01 O
-) O
-. O
-
 Medicamentos Tratamento
 : O
 tapazol Tratamento
@@ -6625,17 +5430,6 @@ dispneia Problema
 , O
 dor Problema
 torácica Problema
-. O
-
-S O
-# O
-Nega O
-palpitações Problema
-, O
-dispneia Problema
-, O
-dor Problema
-torácica Anatomia
 . O
 
 Epigastralgia Problema
@@ -6678,51 +5472,6 @@ extra Problema
 - Problema
 sistole Problema
 ventricular Problema
-unica Problema
-, O
-extra Problema
-- Problema
-sistole Problema
-supra Problema
-- Problema
-ventricular Problema
-rara Problema
-, O
-ausencia O
-de O
-pausas Problema
-, O
-ST O
-sem O
-alterações Problema
-. O
-
-- O
-Holter Teste
-28 O
-/ O
-04 O
-/ O
-15 O
-: O
-ritmo O
-sinusal O
-, O
-FC O
-media O
-53 O
-, O
-Intervalo O
-PR O
-normal O
-, O
-QRS O
-normais O
-, O
-extra Problema
-- Problema
-sistole Problema
-ventricular Anatomia
 unica Problema
 , O
 extra Problema
@@ -6907,22 +5656,6 @@ TTO Tratamento
 . O
 
 # O
-CA Problema
-de Problema
-Laringe Anatomia
-, O
-fez O
-QT Tratamento
-e O
-RT Tratamento
-- O
-TERMINO O
-TTO Tratamento
-2002 O
-, O
-. O
-
-# O
 HAS Problema
 , O
 . O
@@ -7053,14 +5786,6 @@ iesquemia Problema
 miocardica Problema
 . O
 
-Clínicas O
-ou O
-eletrocardiográficas O
-de O
-iesquemia Problema
-miocardica Anatomia
-. O
-
 Resposta O
 cronotrópica O
 adequada O
@@ -7158,14 +5883,6 @@ NO Problema
 PEITO Problema
 . O
 
-NEGA O
-DISPNEIA Problema
-E O
-DOR Problema
-NO Problema
-PEITO Anatomia
-. O
-
 ESTÁVEL O
 . O
 
@@ -7249,4 +5966,3 @@ Lucas O
 Doutor O
 Lucas O
 . O
-
